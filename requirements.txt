@@ -1,4 +1,4 @@
-zure-eventhub==5.12.0
+azure-eventhub==5.12.0
 azure-servicebus==7.12.2
 azure-storage-blob==12.20.0
 azure-core==1.30.1
